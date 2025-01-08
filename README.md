@@ -70,6 +70,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Kmr07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kmr07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ###
 
